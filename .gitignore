@@ -1,2 +1,4 @@
 # not known
 *.lock
+.jekyll-cache/
+_site/
